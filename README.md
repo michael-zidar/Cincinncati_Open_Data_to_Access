@@ -35,3 +35,7 @@ pip install sodapy
 
 ## Access Database
 In the "data/" directory you will find a Microsoft Access Database with a table labeled CPD_Shootings. This contains shooting data at the time of the initial commit, and is the data source that the script will access and update.
+
+## Requirements
+- Must have MS Office 64bit installed 
+- Must have MS Access installed
