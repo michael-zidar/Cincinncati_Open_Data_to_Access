@@ -33,5 +33,5 @@ You will need to make sure the following packages are installed in your working 
 pip install pandas
 pip install sodapy
 
-
 ## Access Database
+In the "data/" directory you will find a Microsoft Access Database with a table labeled CPD_Shootings. This contains shooting data at the time of the initial commit, and is the data source that the script will access and update.
